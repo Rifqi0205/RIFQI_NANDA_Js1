@@ -10,7 +10,7 @@ if (hasil >= 95) {
 } else if (hasil >= 70) {
   console.log("hasil yang anda dapatkan adalah D");
 } else {
-  console.log("hasil yang anda dapatkan adalahi E");
+  console.log("hasil yang anda dapatkan adalah E");
 }
 
 // Contoh penggunaan switch case
