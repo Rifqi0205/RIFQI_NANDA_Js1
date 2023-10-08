@@ -1,16 +1,16 @@
 // Contoh penggunaan if, else if, dan nested if
-let nilai = 95;
+let hasil = 95;
 
 if (nilai >= 95) {
-  console.log("Selamat! Anda mendapatkan nilai A");
-} else if (nilai >= 90) {
-  console.log("Anda mendapatkan nilai B");
-} else if (nilai >= 80) {
-  console.log("Anda mendapatkan nilai C");
-} else if (nilai >= 70) {
-  console.log("Anda mendapatkan nilai D");
+  console.log("Selamat! hasil yang anda dapatkan adalah A");
+} else if (hasil >= 90) {
+  console.log("hasil yang anda dapatkan adalah B");
+} else if (hasil >= 80) {
+  console.log("hasil yang anda dapatkan adalah C");
+} else if (hasil >= 70) {
+  console.log("hasil yang anda dapatkan adalah D");
 } else {
-  console.log("Anda mendapatkan nilai E");
+  console.log("hasil yang anda dapatkan adalahi E");
 }
 
 // Contoh penggunaan switch case
@@ -39,9 +39,9 @@ for (let x = 1; x <= 9; x++) {
 
 // Contoh penggunaan while loop
 let count = 0;
-while (count < 10) {
-  console.log("perulangan " + (count + 1));
-  count++;
+while (ulang < 10) {
+  console.log("perulangan " + (ulang + 1));
+  ulang++;
 }
 
 // Contoh penggunaan do-while loop
