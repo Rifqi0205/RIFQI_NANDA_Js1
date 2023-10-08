@@ -38,7 +38,7 @@ for (let x = 1; x <= 9; x++) {
 }
 
 // Contoh penggunaan while loop
-let count = 0;
+let ulang = 0;
 while (ulang < 10) {
   console.log("perulangan " + (ulang + 1));
   ulang++;
