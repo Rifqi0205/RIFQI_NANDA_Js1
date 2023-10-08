@@ -1,7 +1,7 @@
 // Contoh penggunaan if, else if, dan nested if
 let hasil = 95;
 
-if (nilai >= 95) {
+if (hasil >= 95) {
   console.log("Selamat! hasil yang anda dapatkan adalah A");
 } else if (hasil >= 90) {
   console.log("hasil yang anda dapatkan adalah B");
